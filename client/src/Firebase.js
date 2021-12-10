@@ -3,9 +3,9 @@ import firebase  from 'firebase';
 const setting ={timestampsInSnapshots:true};
 
 const config={
-    projectId:'reactchat-f866e',
-    apiKey:'AIzaSyCJM4G8sXpRGmVLQtZgKC8DMjD8Wj9jWKA',
-    databaseURL:'https://reactchat-f866e-default-rtdb.firebaseio.com'
+    projectId:'reacat-f866e',
+    apiKey:'AIzaSyCJM4G8sXpgKC8DMjD8Wj9jWKA',
+    databaseURL:'https://reacat-f663416e-deult-rtdb.firebaseio.com'
 }
 
 firebase.initializeApp(config);
